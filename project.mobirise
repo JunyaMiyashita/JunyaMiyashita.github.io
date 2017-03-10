@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.1.html",
+    "currentPage": "page2.1.1.html",
     "name": "BLOOMPLACE Inc.",
     "theme": {
       "name": "mobirise3",
@@ -843,8 +843,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>社名　　　<span style=\"font-size: 1.07rem; line-height: 1.5;\">株式会社BLOOMPLACE</span></p><p>本社　　　東京都港区南青山2丁目2番15号</p><p>　　　　　Win Aoyamaビル−UCF9階</p><p>代表者　　宮下 隼也</p><p>設立　　　2017年3月1日</p><p>資本金　　1,000,000円</p><p>事業内容　インターネットメディア事業</p><p>　　　　　人材育成、能力開発のための教育事業</p><p>　　　　　各種研修、セミナーの企画、コンサルティングおよび運営</p><p>　　　　　各種市場調査の受託およびコンサルティング</p><p>　　　　　企業戦略の立案、企業革新、企業情報システムの構築及び</p><p>　　　　　M＆Aに関する支援</p><p>　　　　　前号に付帯する一切の業務</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">加盟団体　NCMA, Japan　　　　</span></p>",
-          "text2": "<p>当社は、イノベーティブで独創的なアイディアにより消費者も気づいていない、世の中にまだないサービスや商品を生み出すことにより新たな顧客体験を提供して行きます。</p><p><br></p><p>ワクワクするようなアイディアを育み、世の中のみなが笑顔になれるサービスを創造することで社会に貢献して行きます。</p><p><br></p><p>また、当社はこれまでの経験から培ってきたノウハウを、社会的責任において社会に還元いたします。特に、次世代を担う人材に対しての教育において創造力を育む教育の提供に取り組んでまいります。</p><p><br></p><p><br></p>"
+          "text1": "<p><br></p><p>社名：<span style=\"font-size: 1.07rem; line-height: 1.5;\">株式会社BLOOMPLACE</span></p><p>本社：<span style=\"font-size: 1.07rem; line-height: 1.5;\">東京都港区南青山2丁目2番15号</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Win Aoyamaビル−UCF9階</span></p><p>代表者：宮下 隼也</p><p>設立：2017年3月1日</p><p>資本金：1,000,000円</p><p>事業内容：　</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">・インターネットメディア事業</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">・教育事業</span></p><p>・各種研修、セミナーの企画運営</p><p>・各種市場調査、コンサルティング</p><p>・企業戦略の立案、システム構築</p><p>・前号に付帯する一切の業務</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">加盟団体：NCMA, Japan　　　　</span></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">当社は、イノベーティブで独創的なアイディアにより消費者も気づいていない、世の中にまだないサービスや商品を生み出すことにより新たな顧客体験を提供して行きます。</span><br></p><p><br></p><p>ワクワクするようなアイディアを育み、世の中のみなが笑顔になれるサービスを創造することで社会に貢献して行きます。</p><p><br></p><p>また、当社はこれまでの経験から培ってきたノウハウを、社会的責任において社会に還元いたします。特に、次世代を担う人材に対しての教育において創造力を育む教育の提供に取り組んでまいります。</p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -878,7 +878,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>東京都港区南青山2-2-15<br>Win Aoyamaビル−UCF<font color=\"#000000\">9階</font><br><br>\n<strong>Contacts</strong><br>\nEmail: info@bloomplacejp.com<br>\nPhone: 050 5240 8056<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>東京都港区南青山2-2-15<br>Win Aoyamaビル−UCF<font color=\"#000000\">9階</font><br><br>\n<strong>Contacts</strong><br>\nEmail: info@bloomplacejp.com<br>\nPhone: 050 5240 8056<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>NCMA, Japan</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>T Kids アカデミー</li><br></ul>"
         },
         {
@@ -1169,7 +1169,7 @@
           },
           "title1": "<font color=\"#000000\">CEO &nbsp; 宮下 隼也</font>",
           "subtitle1": "米国PMI公認 PMP<br>Project Management Proffesional",
-          "caption1": "1977年新潟県生まれ。京都大学大学院人間・環境学研究科博士後期課程退学「京都大学放射性同位元素総合センター五十棲泰人名誉教授（元センター長）に師事」。日揮株式会社、SIEMENS Japan K.K. 、株式会社東芝等で数多くの社会インフラ系プロジェクト・マネジメント業務に従事。2017年3月、株式会社BLOOMSPACEを創業。",
+          "caption1": "1977年新潟県生まれ。京都大学大学院人間・環境学研究科博士後期課程退学「京都大学放射性同位元素総合センター五十棲泰人名誉教授（元センター長）に師事」。日揮株式会社、SIEMENS Japan K.K. 、株式会社東芝等で数多くの社会インフラ系プロジェクト・マネジメント業務に従事。2017年3月、株式会社BLOOMPLACEを創業。",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -1435,7 +1435,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2866,8 +2866,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/itkidsr0-1400x1980.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
