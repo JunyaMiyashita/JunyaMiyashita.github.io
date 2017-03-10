@@ -1189,25 +1189,6 @@ h6,
 #form1-2v .form-control-label {
   color: #232323;
 }
-#contacts5-2u p,
-#contacts5-2u .list-group-text,
-#contacts5-2u .form-control-label {
-  color: #000;
-}
-#contacts5-2u strong,
-#contacts5-2u h4 {
-  color: #7e9b9f;
-}
-#contacts5-2u form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-2u .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-2u .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
 
 #menu-2d .hide-buttons .nav-btn {
   display: none !important;
