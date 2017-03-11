@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.1.2.html",
+    "currentPage": "page2.2.2.html",
     "name": "BLOOMPLACE Inc.",
     "theme": {
       "name": "mobirise3",
@@ -938,6 +938,10 @@
             ".mbr-cards-col:nth-child(even) .card-text": {
               "text-align": "left",
               "font-size": "15px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "features1-1c",
@@ -976,7 +980,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<font color=\"#000000\">CEO &nbsp; 宮下 隼也</font>",
+          "title1": "<font color=\"#000000\">宮下　隼也</font><br>CEO",
           "subtitle1": "米国PMI公認 PMP<br>Project Management Proffesional",
           "caption1": "1977年新潟県生まれ。京都大学大学院人間・環境学研究科博士後期課程退学「京都大学放射性同位元素総合センター五十棲泰人名誉教授（元センター長）に師事」。日揮株式会社、SIEMENS Japan K.K. 、株式会社東芝等で数多くの社会インフラ系プロジェクト・マネジメント業務に従事。2017年3月、株式会社BLOOMPLACEを創業。",
           "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -988,7 +992,7 @@
               "active": true
             }
           },
-          "title2": "Div. Manager &nbsp;樽屋 佑亮\n<div>&nbsp;&nbsp; &nbsp;</div>",
+          "title2": "樽屋　佑亮\n<div>&nbsp; &nbsp; Div. Manager &nbsp;</div>",
           "subtitle2": "",
           "caption2": "1994年兵庫県生まれ。早稲田大学商学部商学科。UCI Continuing Education （International Business Operations and Management留学）株式会社LITALICO（リタリコ）インターンを経て、2017年3月より株式会社BLOOMPLACEに参画、教育事業本部本部長に就任。&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1004,9 +1008,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "CTO &nbsp; 神田 圭介",
+          "title3": "神田　圭介<br>CTO &nbsp;&nbsp;",
           "subtitle3": "BLOOMPLACE has a highly exhaustive list of fonts",
-          "caption3": "東京大学工学部航空宇宙学科。千葉県生まれ。1997年〜1999年スイス、1999年〜2005年イギリスで生活し、重力に逆らって空を飛ぶ飛行機や宇宙機には 無駄のない極限的な設計が求められることへの興味から航空宇宙工学を専攻。そこには、流体、構造・材料、飛行・制御、推進などの様々な工学分野のバランスの取れた\"統合\"が要求されます。",
+          "caption3": "東京大学工学部航空宇宙学科。千葉県生まれ。1997年〜1999年スイス、1999年〜2005年イギリスで生活し、火星移住や日本の友人宇宙飛行への興味から航空宇宙工学を専攻。そこには、流体、構造・材料、制御、推進などの様々な工学分野のバランスの取れた\"統合\"が要求されます。",
           "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -1016,7 +1020,7 @@
               "active": true
             }
           },
-          "title4": "Art Director &nbsp; 宮下 卓",
+          "title4": "宮下　卓<br>Art Director &nbsp;&nbsp;",
           "subtitle4": "",
           "caption4": "1984年新潟県生まれ。拓殖大学政経学部法律政治学科卒業。2007年警視庁入庁、2010年〜2016年東京都庁（非常勤職員）。これまで無償で数多くのアーティストなどに作品提供、受賞実績多数。2017年3月より株式会社BLOOMPLACEに参画、アートディレクターに就任。&nbsp;<br>",
           "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1225,7 +1229,7 @@
           "title1": "キャラクターデザイン",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "既にお客さまのなかでイメージがある場合は、イメージラフをもとにプロのデザイナーが“かたち”にいたします。<br>また、イメージがないお客さまにつきましては、詳細をヒアリングしたうえで、当社のプロのデザイナーよりご提案させていただきます。<br>キャラクター１案 50,000円（税抜）より、詳細につきましては以下<font color=\"#000000\">フォームよりお問い合わせください。</font><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page3.3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/-600x403.jpg",
@@ -1241,10 +1245,10 @@
           "title2": "ポスター、広告デザイン",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "ポスターデザイン制作をお考えの方へ<br>ラフ段階で2案ご提出して、最終的に1案を採用とさせて頂きます。デザイン要素のボリュームや指示書の有無によって、料金が異なります。<br>※レイアウト・イメージ等の指示書があった方が、コストダウンが可能です。<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1257,7 +1261,7 @@
           "title3": "ロゴデザイン",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "既にお客さまのなかでイメージがある場合は、イメージラフをもとにプロのデザイナーが“かたち”にいたします。<br>また、イメージがないお客さまにつきましては、詳細をヒアリングしたうえで、当社のプロのデザイナーよりご提案させていただきます。<br>ロゴ１案 50,000円（税抜）より、詳細につきましては以下フォームよりお問い合わせください。<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/-600x847.jpg",
@@ -1273,7 +1277,7 @@
           "title4": "各種デザイン、企画",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "各種デザイン制作をお考えの方へ<br>ラフ段階で2案ご提出して、最終的に1案を採用とさせて頂きます。デザイン要素のボリュームや指示書の有無によって、料金が異なります。<br>※レイアウト・イメージ等の指示書があった方が、コストダウンが可能です。<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",

@@ -689,6 +689,7 @@ h6,
   background-color: #ffffff;
 }
 
+
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -771,6 +772,9 @@ h6,
 #features1-1c .mbr-cards-col:nth-child(even) .card-text {
   text-align: left;
   font-size: 15px;
+}
+#features1-1c .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-family: 'Raleway', sans-serif;
 }
 
 #menu-2d .hide-buttons .nav-btn {
