@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x60012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x60013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3003,6 +3003,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
