@@ -9,12 +9,12 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#ffffff",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#c0a375",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "textFont": "Roboto",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6007.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2514,10 +2514,19 @@
             },
             ".mbr-section-title": {
               "font-size": "60px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-lead SPAN": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "text-align": "left"
             }
           },
           "_anchor": "header1-1",
@@ -2540,8 +2549,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Have a great life<br><br>",
-          "text": "<b>わたしたちは、WEBマーケティング事業、教育事業を通じて独創的なイノベーションを創造し、人々の生活をより豊かにすることを目指したカンパニーです。</b>",
+          "title": "Have a great life<br><br><div><i>私たちは、IT技術を活用した</i><i style=\"line-height: 1.1;\">独創的なイノベーションを創造することにより、人々の生活をより豊かにすることを</i><i style=\"line-height: 1.1;\">目指したカンパニーです。</i></div><div><br></div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.1.html\" data-toolbar=\"-mbrBtnMove\">新着情報</a> "
         },
         {
