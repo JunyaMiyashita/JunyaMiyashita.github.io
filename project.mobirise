@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6005.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2541,7 +2541,7 @@
             "showButtons": true
           },
           "title": "Have a great life<br><br>",
-          "text": "<span style=\"font-style: normal;\"><b style=\"font-size: 1.5rem; line-height: 1.5;\">わたしたちは、WEBマーケティング事業、教育事業を通じて独創的なイノベーションを創造し、</b><b style=\"font-size: 1.5rem; line-height: 1.5;\">人々の生活をより豊かにすることを目指したカンパニーです。</b></span><br>",
+          "text": "<b>わたしたちは、WEBマーケティング事業、教育事業を通じて独創的なイノベーションを創造し、人々の生活をより豊かにすることを目指したカンパニーです。</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.1.html\" data-toolbar=\"-mbrBtnMove\">新着情報</a> "
         },
         {
