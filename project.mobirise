@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2353,7 +2353,7 @@
           "title": "お問い合わせフォーム",
           "subtitle": "ご不明な点やご質問等ございましたら、お問い合わせください。<br>",
           "form": {
-            "action": "miyashitas@bloomplacejp.com",
+            "action": "miyashitaj@bloomplacejp.com",
             "alerts": {
               "success": "この度はお問い合わせ頂きまして、誠にありがとうございました。"
             },
