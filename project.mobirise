@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6007.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2549,7 +2549,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Have a great life<br><br><div><i>私たちは、IT技術を活用した</i><i style=\"line-height: 1.1;\">独創的なイノベーションを創造することにより、人々の生活をより豊かにすることを</i><i style=\"line-height: 1.1;\">目指したカンパニーです。</i></div><div><br></div>",
+          "title": "Have a great life<br><br><div>私たちは、IT技術を活用した独創的なイノベーションを創造することにより、人々の生活をより豊かにすることを目指したカンパニーです。</div><div><br></div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.1.html\" data-toolbar=\"-mbrBtnMove\">新着情報</a> "
         },
