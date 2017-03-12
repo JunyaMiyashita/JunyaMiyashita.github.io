@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.4.html",
     "name": "BLOOMPLACE Inc.",
     "theme": {
       "name": "mobirise3",
@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x60018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1597,7 +1597,7 @@
           "title1": "教育事業",
           "subtitle1": "Let's Learn Programming(Design) and English!!",
           "caption1": "２０２０年から始まるプログラミング教育に先駆け、プログラミングの楽しさを伝え、世の中に未だないサービスを創造できるような教養と思考能力を育てる教育を提供いたします。プログラミング教育に関する政策提言活動、行政機関への協力等、公教育におけるプログラミング教育の導入・普及推進のための活動を行っております。",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1609,7 +1609,7 @@
           "title2": "WEBマーケティング事業",
           "subtitle2": "Create a \"Wow\" experience for your customer",
           "caption2": "お客さまとの間に強いエンゲージメント（共感や愛着）を構築するためには、顧客満足を超えた感動が必要です。そのために弊社では、顧客志向に基づく顧客体験の設計を通じ、全面的に貴社を支援いたします。<span style=\"font-size: 1rem; line-height: 1.5;\">お客様にワオ（WOW）！と言わせるような最高の顧客体験をしていただき、熱烈なファンを増やして行きましょう。</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
@@ -1625,7 +1625,7 @@
           "title3": "プロジェクト支援事業",
           "subtitle3": "Specialized project management services",
           "caption3": "プロジェクト・マネジメントにて的確な監視コントロールにより、計画に沿ったプロジェクトの進捗とプロジェクト成果物の品質確保をご支援いたします。<br>特に、リスク・マネジメントと組織のモチベーション・マネジメントにおいて、経験豊富なプロフェッショナルが、貴社における円滑なプロジェクトの遂行をサポートいたします。",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x388.jpg",
@@ -1641,7 +1641,7 @@
           "title4": "デザイン事業",
           "subtitle4": "Good design is innovative!",
           "caption4": "企業の営業やブランディングにおける販促活動を支援いたします。各種広告の企画、デザイン、制作、製品・商品カタログ、ポスター、ロゴ、各種チラシやWEBサイトの企画、デザインなど、様々なコミュニケーションの場面におけるB to B、B to C<br>コミュニケーションをお手伝いいたします。私たちはお客さまの心にひびくデザインを目指しています。 ",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2082,7 +2082,7 @@
           },
           "title": "<br>エンジニア部門",
           "text": "①WEBエンジニア、②AR／VRエンジニア<br>未経験から即戦力まで将来的に共に成長して行ける正社員またはパートナーをして共に成長できるフリーランスの方を事業拡大に伴い募集いたします。ベンチャーマインドに溢れ、将来を自分たちで創造してゆきたいと思う方のご応募をお待ちしております。<br><br>〈応募資格〉<br>iOS若しくはAndroid用アプリケーション開発経験のある方、開発経験はなくても他のプラットフォーム上でのシステム開発経験のある方。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">MORE<br></a>"
         },
         {
           "_tags": [
@@ -2137,9 +2137,9 @@
               "size": 0
             }
           },
-          "title": "教育部門",
+          "title": "<br>教育部門",
           "text": "英語、数学・算数、ITプログラミング（メンター募集）<br>メンターとは、生徒に対してスキルや知識、ノウハウを教えることでプロフェッショナルに成長させてゆく人<font color=\"#000000\">のことを言います。</font><br><font color=\"#000000\">貴方のこれまで培ってきた知識や経験をもとに、</font>次世代を担う子どもたちへの教育事業に情熱を注いでゆきたいと思う方のご応募をお待ちしております。<br><font color=\"#000000\"><br></font><font color=\"#000000\">〈応募資格〉</font><br><font color=\"#000000\">海外留学経験やプログラミングのスキルをお持ちの方からのご応募をお待ちしております。<br></font><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -2196,7 +2196,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     },
