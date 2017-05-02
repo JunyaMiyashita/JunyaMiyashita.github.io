@@ -1316,6 +1316,7 @@ h6,
   background-color: #ffffff;
 }
 
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1391,6 +1392,15 @@ h6,
 #social-buttons3-2l .mbr-section-title,
 #social-buttons3-2l .btn-social {
   color: #fff;
+}
+#contacts2-r FONT {
+  color: #ffffff;
+}
+#contacts2-r P {
+  font-family: 'Lora', serif;
+}
+#form1-4d .form-control-label {
+  color: #232323;
 }
 
 #menu-0 .hide-buttons .nav-btn {
@@ -1491,4 +1501,74 @@ h6,
 }
 #msg-box2-4a .mbr-section-title FONT {
   color: #ffffff;
+}
+
+#menu-4k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4k .navbar-caption {
+  color: #ffffff;
+  font-size: 22px;
+}
+#menu-4k .navbar-toggler {
+  color: #ffffff;
+}
+#menu-4k .link,
+#menu-4k .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-4k .link {
+  font-size: 0.85rem;
+}
+#menu-4k .dropdown-item,
+#menu-4k .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-4k .link:hover,
+#menu-4k .dropdown-item:hover,
+#menu-4k .link:focus,
+#menu-4k .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-4k .link[aria-expanded="true"],
+#menu-4k .dropdown-menu {
+  background: #11b4ba;
+}
+#menu-4k .nav-dropdown-sm .link:focus,
+#menu-4k .nav-dropdown-sm .link:hover,
+#menu-4k .nav-dropdown-sm .dropdown-item:focus,
+#menu-4k .nav-dropdown-sm .dropdown-item:hover {
+  background: #14d3db!important;
+}
+#menu-4k .navbar,
+#menu-4k .nav-dropdown-sm,
+#menu-4k .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4k .nav-dropdown-sm .dropdown-menu {
+  background: #15e1e9;
+}
+#menu-4k .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-4k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4k .bg-color.transparent.opened .link:hover,
+#menu-4k .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-4k .link[aria-expanded="true"],
+#menu-4k .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-4k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4k .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-4k .close-icon::before,
+#menu-4k .close-icon::after {
+  background-color: #ffffff;
 }

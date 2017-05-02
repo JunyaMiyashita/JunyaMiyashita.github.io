@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page7.html",
     "name": "BLOOMPLACE Inc.",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 157,
+    "uniqCompNum": 167,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -136,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -398,7 +398,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -791,7 +791,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -900,7 +900,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1179,7 +1179,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1527,7 +1527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1774,7 +1774,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1988,7 +1988,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2305,7 +2305,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2491,7 +2491,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2625,7 +2625,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2763,7 +2763,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2829,6 +2829,98 @@
             "odnoklassniki": false
           },
           "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "FONT": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "contacts2-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>東京都港区南青山2-2-15<br>Win Aoyamaビル−UCF<font color=\"#000000\">9階</font><br><br>\n<strong>Contacts</strong><br>\nEmail: info@bloomplacejp.com<br>\nPhone: 050 5240 8056<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.hoiku.co.jp\">NCMA, Japan</a></li><li><a href=\"page11.html\">IT Kids アカデミー</a></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-4d",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "コンタクト FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "miyashita5@hotmail.co.jp",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     },
@@ -2939,7 +3031,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3198,8 +3290,144 @@
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
-          "title": "<font color=\"#000000\">株式会社&nbsp;</font>BLOOMPLACE",
+          "title": "BLOOMPLACE",
           "text": "Copyright (c) 2017 BLOOMPLACE Inc."
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "自然たいけん学習 in 葉山町／古民家カフェ「風早茶房」協賛",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#11b4ba"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#14d3db!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#15e1e9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4k",
+          "_params": {
+            "bgColor": "#15e1e9",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logobp-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://bloomplace.co.jp",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "zynga",
+              "family": "socicon",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BLOOMPLACE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">News</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.1.html\">新着情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.2.html\">ニュースリリース</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Company</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">企業情報</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.1.html\">会社概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.1.2.html\">メンバー紹介</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">サービス</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.1.html\">事業概要</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.2.2.html\">実績紹介</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.3.html\">投資家情報</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.4.html\">採用情報</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">お問い合わせ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://rumi-ver2.herokuapp.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4m",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image-1400x1980.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "自然たいけん学習 in 葉山町／古民家カフェ「風早茶房」協賛"
         }
       ]
     }
