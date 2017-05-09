@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "name": "BLOOMPLACE Inc.",
     "theme": {
       "name": "mobirise3",
@@ -1248,7 +1248,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3367,7 +3367,7 @@
             }
           },
           "title": "葉山でとっておきの((o(´∀｀)o))ﾜｸﾜｸ<br>を体験しよう！",
-          "text": "同行するチャイルドマインダーの全員が幼児小児救急救護法国際修了カードを取得しており、安心してツアーに参加いただけます。更に、参加者の安心と安全の提供のため、国内旅行傷害保険（団体）に加入しており、バスの乗車中のみならず、バス降車後におけるツアー参加中の急激かつ偶然な外来の事故による損害をも保障されております。<br><br>定員：１８名（先着順で定員に達し次第締め切らせて頂きます。）<br><br>参加費用：子ども 9,800円（税込み）、大人&nbsp;9,300円（税込み）<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">※詳細は電話にてお問い合わせください。</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">電話番号：050(5240)8056 &nbsp;　IT Kidsアカデミー自然たいけん事務局<br></span><br>",
+          "text": "同行するチャイルドマインダーの全員が幼児小児救急救護法国際修了カードを取得しており、安心してツアーに参加いただけます。更に、参加者の安心と安全の提供のため、国内旅行傷害保険（団体）に加入しており、バスの乗車中のみならず、バス降車後におけるツアー参加中の急激かつ偶然な外来の事故による損害をも保障されております。<br><br>定員：１８名（先着順で定員に達し次第締め切らせて頂きます。）<br><br>参加費用：子ども 9,800円（税込み）、大人&nbsp;9,300円（税込み）<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">詳細は電話にてお問い合わせください。</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">電話番号：050(5240)8056 &nbsp;　IT Kidsアカデミー自然たいけん事務局<br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
