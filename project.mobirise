@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.2.html",
+    "currentPage": "page2.1.1.html",
     "name": "BLOOMPLACE Inc.",
     "theme": {
       "name": "mobirise3",
@@ -35,7 +35,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -322,7 +322,7 @@
       "settings": {
         "title": "企業情報　会社概要",
         "meta_descr": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -537,7 +537,7 @@
       "settings": {
         "title": "企業情報　メンバー紹介",
         "meta_descr": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -796,7 +796,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -986,7 +986,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">お問い合わせ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x6005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x6007.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1164,7 +1164,7 @@
       "settings": {
         "title": "サービス　事業概要",
         "meta_descr": "",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1411,7 +1411,7 @@
       "settings": {
         "title": "投資家情報",
         "meta_descr": "",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -1625,7 +1625,7 @@
       "settings": {
         "title": "採用情報",
         "meta_descr": "",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -1942,7 +1942,7 @@
       "settings": {
         "title": "お問い合わせ",
         "meta_descr": "",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2125,7 +2125,7 @@
       "settings": {
         "title": "Web Page Creator Title",
         "meta_descr": "Web Page Creator Description",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -2262,7 +2262,7 @@
       "settings": {
         "title": "Web Generator Title",
         "meta_descr": "Web Generator Description",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -2573,7 +2573,8 @@
     "page6.html": {
       "settings": {
         "title": "コーチング",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 13
       },
       "components": [
         {
@@ -2944,7 +2945,8 @@
     "page1.2.html": {
       "settings": {
         "title": "自然たいけん学習 in 葉山町／古民家カフェ「風早茶房」協賛",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 3
       },
       "components": [
         {
